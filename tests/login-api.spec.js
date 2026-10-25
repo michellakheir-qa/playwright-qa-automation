@@ -1,6 +1,6 @@
 const { test, expect } = require('@playwright/test');
 
-const apiUrl = 'https://localhost:3000/api/login';
+const apiUrl = 'http://localhost:3000/api/login';
 
 // Test 1: Valid credentials
 test('Valid login returns HTTP 200', async ({ request }) => {
