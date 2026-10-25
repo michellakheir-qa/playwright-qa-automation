@@ -30,3 +30,5 @@ npm test
 ```
 
 A pnpm lockfile is included for reproducible installation with `pnpm install --frozen-lockfile`.
+# playwright-qa-automation
+Playwright automation testing project covering web UI, login functionality, and API testing using JavaScript.
